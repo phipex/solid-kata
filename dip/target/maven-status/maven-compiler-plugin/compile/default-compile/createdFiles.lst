@@ -1,0 +1,6 @@
+com/codurance/dip/Clock.class
+com/codurance/dip/EmailSender.class
+com/codurance/dip/Employee.class
+com/codurance/dip/BirthdayGreeter.class
+com/codurance/dip/Email.class
+com/codurance/dip/EmployeeRepository.class
